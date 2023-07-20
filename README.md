@@ -28,3 +28,10 @@ FFmtools is a powerful application that provides a user-friendly graphical inter
 
 <img src="https://github.com/mpadillagarcia/FFmtools/blob/main/assets/main.png" alt="ffmtools main" width="243"> <img src="https://github.com/mpadillagarcia/FFmtools/blob/main/assets/mpeg-dash.png" alt="ffmtools mpeg-dash" width="243">
 
+## Installing the app (Step by step)
+
+- Download and install the .exe file.
+
+- Download the last version of FFmpeg tool from the official site.
+
+- Add the ffmpeg.exe file to the "Path" in the environment variables window.
